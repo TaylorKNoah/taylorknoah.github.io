@@ -1,0 +1,50 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Taylor Noah - Sr. Full Stack Software Engineer'
+theme = 'PaperMod'
+publishDir = "docs"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+Title = "Hi, Welcome to My Portfolio"
+content = """I'm Taylor Noah. 
+
+I’m a senior software engineer with experience across frontend and backend systems, specializing in distributed architectures and building reliable, scalable backend services.
+
+I focus on designing APIs, event‑driven systems, and backend platforms that support real‑world scale.
+
+Welcome to my portfolio — here you’ll find my work, projects, blog, and ongoing learning."""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/TaylorKNoah"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/taylorknoah/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:taylorknoah@gmail.com"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 3
