@@ -15,6 +15,8 @@ publishDir = 'public'
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+  mainSections=["blog"]
+  ShowPostList = false
 
 [params.homeInfoParams]
 Title = "Hi, Welcome to My Portfolio"

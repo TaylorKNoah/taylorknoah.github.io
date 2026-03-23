@@ -1,6 +1,5 @@
 +++
 date = '2026-03-18T11:20:06-07:00'
-draft = true
 title = 'The Beginnings: Building this Website'
 summary = 'Making pragmatic architectural choices'
 +++
