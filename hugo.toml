@@ -1,8 +1,8 @@
-baseURL = 'https://taylorknoah.github.io/'
+baseURL = '/'
 locale = 'en-us'
 title = 'Taylor Noah - Sr. Full Stack Software Engineer'
 theme = 'PaperMod'
-publishDir = "public"
+publishDir = 'public'
 
 [caches]
   [caches.images]
