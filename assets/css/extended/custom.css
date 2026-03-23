@@ -1,21 +1,33 @@
+html:not([data-theme]) {
+  visibility: hidden;
+}
+
+html[data-theme="dark"] body {
+  background: #1d1e20; /* or whatever color you want */
+}
+
+html[data-theme="dark"] .post-header {
+    padding-top: 5px;
+}
+
+html[data-theme="dark"] .post-single {
+    border-radius: 6px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: rgb(60, 62, 67);
+}
+
 html[data-theme="light"] body {
   background: rgb(245, 245, 245); /* or whatever color you want */
 }
 
-.post-single {
-    border-radius: 6px;
-    padding-right: 15px;
-    padding-left: 15px;
+html[data-theme="light"] .post-header {
+    padding-top: 5px;
 }
 
 html[data-theme="light"] .post-single {
+    border-radius: 6px;
+    padding-right: 15px;
+    padding-left: 15px;
     background-color: rgb(250, 250, 250);
-}
-
-html[data-theme="dark"] .post-single {
-    background-color: rgb(60, 62, 67);
-}
-
-.post-header {
-    padding-top: 5px;
 }
