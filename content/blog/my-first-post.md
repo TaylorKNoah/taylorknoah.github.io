@@ -2,6 +2,7 @@
 date = '2026-03-18T11:20:06-07:00'
 title = 'The Beginnings: Building this Website'
 summary = 'Making pragmatic architectural choices'
+type='blog'
 +++
 
 Today I set out to build a portfolio website.
