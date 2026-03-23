@@ -8,4 +8,5 @@ Welcome to my blog!
 These posts detail my ongoing projects, things I've learned, and whatever else I might decide to share.
 
 ---
-### Posts
+
+**Posts**

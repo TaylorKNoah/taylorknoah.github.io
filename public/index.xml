@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Taylor Noah - Sr. Full Stack Software Engineer</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Home on Taylor Noah - Sr. Full Stack Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Mar 2026 11:20:06 -0700</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Beginnings: Building this Website</title>
+      <link>/blog/my-first-post/</link>
+      <pubDate>Wed, 18 Mar 2026 11:20:06 -0700</pubDate>
+      <guid>/blog/my-first-post/</guid>
+      <description>Making pragmatic architectural choices</description>
+    </item>
   </channel>
 </rss>
