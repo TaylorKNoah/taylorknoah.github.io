@@ -4,6 +4,10 @@ title = 'Taylor Noah - Sr. Full Stack Software Engineer'
 theme = 'PaperMod'
 publishDir = "docs"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   ShowReadingTime = true
   ShowShareButtons = false
