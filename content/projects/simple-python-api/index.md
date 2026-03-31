@@ -3,6 +3,8 @@ title = "Simple Python Flask API"
 summary = "A simple api allowing a user to login and save preferences. Uses JWT authentication and PostgreSQL db."
 tags = ["Python", "Flask", "Django", "In Progress", "API", "Swagger", "Auth", "PostgreSQL", "Database"]
 weight = 1 
+wip = false
+date = '2026-03-31T11:07:00-07:00'
 +++
 
 ## Github  
