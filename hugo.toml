@@ -27,7 +27,9 @@ I’m a senior software engineer with experience across frontend and backend sys
 
 I focus on designing APIs, event‑driven systems, and backend platforms that support real‑world scale.
 
-Thanks for checking out my portfolio! Here you’ll find my work, projects, blog, and ongoing learning."""
+Thanks for checking out my portfolio! Here you’ll find my work, projects, blog, and ongoing learning.  
+
+**--> [Check out my current project!](./projects/simple-python-api/)**"""
 
 [[params.socialIcons]]
 name = "github"
