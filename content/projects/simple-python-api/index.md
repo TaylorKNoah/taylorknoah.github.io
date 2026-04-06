@@ -20,12 +20,20 @@ A lightweight Python API using Flask, JWT authentication, and PostgreSQL. Handle
 Swagger will be used to generate an API UI easily interacted with. The project will be hosted on Render once an initial api is functional and swagger is implemented.  
 
 ## Recent Progress
-- PostgreSQL db configured and Users table created.
-- App created and basic project layout intialized.
+- Added Auth Controller with first endpoint: Register
+- Swagger UI introduced
+- Unit Tests for controller / repo / store introduced
 
 ## Next Steps
-- Next I will build out three endpoints: CreateAccout, Login, and Logout.
+- Next I will build out two more endpoints for the Auth Controller: Login, and Logout.
 - Login will administer a JWT token. To be used with further endpoints.
+
+## Finished Pieces
+- App created and basic project layout intialized.
+- PostgreSQL db configured and Users table created.
+- Added Auth Controller with first endpoint: Register
+- Swagger UI introduced
+- Unit Tests for controller / repo / store introduced
 
 ## Tech Stack
 | Use | Tech |  
